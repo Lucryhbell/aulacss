@@ -1,0 +1,44 @@
+h1 {
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79;
+    color: #FFB300;
+}
+img {
+    width: 883px;
+    height: 497px;
+    
+}
+.autor {
+    text-align: left;
+    color: black;
+    font-size: 21px;
+}
+#paragrafo {
+    font-size: 21px;
+    color: #000;
+    line-height: 1.61;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ingre {
+    font-size: 34px;
+    color: #FFB300;
+    font-weight: bold;
+}
+#ingre {
+    font-size: 21px;
+    line-height: 21px*1,61;
+}
+#preparo {
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 21px*1.61;
+}
+video {
+    width: 883px;
+    height: 497px;
+}
+
+
+
+
